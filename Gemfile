@@ -2,14 +2,14 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.3'
-# Testing 
+# Testing
 gem "rubocop", "0.79.0", require: false
 gem "rubocop-rails"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 # Use sqlite3 as the database for Active Record
-#gem 'sqlite3', '~> 1.4'
+gem 'sqlite3', '~> 1.4'
 #postgres data support
 gem 'pg', '~> 0.18.4'
 # Use Puma as the app server
