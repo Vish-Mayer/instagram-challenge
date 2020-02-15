@@ -17,6 +17,14 @@ Your challenge is to build Instagram using Rails. You'll need **users** who can 
 
 Bonus if you can add filters!
 
+## User Stories
+
+As a user,
+so that I can be cool like the all the other kids,
+I want to be able to sign up for Instaclone'
+I want to be able to log in to Instaclone'.  
+
+
 ## How to start
 
 1. Produce some stories, break them down into tasks, and estimate
