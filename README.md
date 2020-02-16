@@ -22,7 +22,11 @@ Bonus if you can add filters!
 As a user,
 so that I can be cool like the all the other kids,
 I want to be able to sign up for an account with Instaclone
-I want to be able to log in to Instaclone.  
+I want to be able to log in to Instaclone .
+
+As a user,
+so that I can share pictures of my lunch,
+I would like to be able to post an image on Instaclone.   
 
 
 ## How to start
